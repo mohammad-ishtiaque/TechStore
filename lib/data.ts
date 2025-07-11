@@ -5,7 +5,7 @@ export const products: Product[] = [
     id: 1,
     name: "Wireless Bluetooth Headphones",
     price: 79.99,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://i.ibb.co/0jNdsxYS/Wireless-Bluetooth-Headphones.webp",
     description:
       "Premium wireless headphones with active noise cancellation, 30-hour battery life, and crystal-clear audio quality. Perfect for music lovers and professionals who demand the best sound experience.",
     category: "Audio",
@@ -16,7 +16,7 @@ export const products: Product[] = [
     id: 2,
     name: "Smart Fitness Watch",
     price: 199.99,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://i.ibb.co/Kjdz6vPN/Smart-Fitness-Watch.webp",
     description:
       "Advanced fitness tracker with heart rate monitoring, GPS tracking, sleep analysis, and 7-day battery life. Track your workouts, monitor your health, and stay connected on the go.",
     category: "Wearables",
@@ -27,7 +27,7 @@ export const products: Product[] = [
     id: 3,
     name: "Portable Power Bank 20000mAh",
     price: 39.99,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://i.ibb.co/7dkMT6rW/Portable-Power-Bank-20000m-Ah.webp",
     description:
       "High-capacity portable charger with fast charging technology, multiple USB ports, and LED display. Keep your devices powered throughout the day with this reliable power bank.",
     category: "Accessories",
@@ -38,7 +38,7 @@ export const products: Product[] = [
     id: 4,
     name: "4K Webcam with Auto Focus",
     price: 129.99,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://i.ibb.co/wNxdR9mq/44-K-Webcam-with-Auto-Focus.webp",
     description:
       "Professional 4K webcam with auto-focus, noise reduction, and wide-angle lens. Perfect for video conferencing, streaming, and content creation with superior image quality.",
     category: "Electronics",
@@ -49,7 +49,7 @@ export const products: Product[] = [
     id: 5,
     name: "Mechanical Gaming Keyboard",
     price: 89.99,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://i.ibb.co/S7GKcRwn/Mechanical-Gaming-Keyboard.webp",
     description:
       "RGB backlit mechanical keyboard with tactile switches, programmable keys, and durable construction. Enhance your gaming and typing experience with this premium keyboard.",
     category: "Gaming",
@@ -60,7 +60,7 @@ export const products: Product[] = [
     id: 6,
     name: "Wireless Charging Pad",
     price: 24.99,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://i.ibb.co/7d1tNw8N/Wireless-Charging-Pad.webp",
     description:
       "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator and overcharge protection for safe and convenient charging.",
     category: "Accessories",
@@ -71,7 +71,7 @@ export const products: Product[] = [
     id: 7,
     name: "Bluetooth Portable Speaker",
     price: 59.99,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://i.ibb.co/QFFgchmH/Bluetooth-Portable-Speaker.webp",
     description:
       "Waterproof Bluetooth speaker with 360-degree sound, 12-hour battery life, and built-in microphone. Perfect for outdoor adventures and home entertainment.",
     category: "Audio",
@@ -82,7 +82,7 @@ export const products: Product[] = [
     id: 8,
     name: "USB-C Hub Multi-Port Adapter",
     price: 49.99,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://i.ibb.co/p6bdq5Ky/USB-C-Hub-Multi-Port-Adapter.webp",
     description:
       "7-in-1 USB-C hub with HDMI, USB 3.0, SD card reader, and PD charging. Expand your laptop's connectivity with this compact and versatile adapter.",
     category: "Accessories",
