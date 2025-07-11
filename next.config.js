@@ -7,7 +7,7 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    domains: ["placeholder.svg"],
+    domains: ["placeholder.svg", "i.ibb.co"],
     unoptimized: true,
   },
 }
