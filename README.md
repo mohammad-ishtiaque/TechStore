@@ -1,12 +1,43 @@
 # TechStore
 
-A modern e-commerce platform built with Next.js, TypeScript, and Tailwind CSS.
+## Tech Stack
+
+- **Frontend**: Next.js 15, React 18, TypeScript
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+- **State Management**: React Context API
+- **Image Optimization**: Next.js Image component
+
+## Pages & Features
+
+### Home Page
+- Grid layout of product cards
+- Product images, names, prices, and ratings
+- "Add to Cart" functionality
+- Responsive design (1-4 columns based on screen size)
+
+### Product Detail Page
+- Full product information and description
+- High-quality product images
+- Star ratings and stock information
+- Category and specifications
+- Add to cart functionality
+
+### Cart Sidebar
+- Slide-in cart with all added products
+- Quantity controls (increase/decrease)
+- Remove items functionality
+- Real-time total calculation
+- Checkout button
+
+### Checkout Modal
+- Customer information form (Name, Email, Address)
+- Order summary with itemized pricing
+- Form validation
+- Simulated order processing
+- Success confirmation
 
 ## Quick Start
-
-### Prerequisites
-- Node.js (v16 or higher)
-- pnpm package manager
 
 ### Installation
 
